@@ -48,4 +48,3 @@ def get_weather(message):
 
 
 bot.polling(non_stop=True)
-
